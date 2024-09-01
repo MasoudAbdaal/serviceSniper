@@ -1,2 +1,0 @@
-v27.2.0
-http.defaultPorts: 2375,2376
