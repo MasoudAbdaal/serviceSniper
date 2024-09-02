@@ -1,3 +1,6 @@
-v27.2.0:
-  http:
-    defaultPorts: 2375,2376
+API v1.46:
+  ports: 2375,2376
+
+Docker Registry (Container Registry CNCF):
+  ports: 5000, 5001
+  
